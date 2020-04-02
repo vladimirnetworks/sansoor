@@ -1,0 +1,6 @@
+.filebox img , .filebox .cropbox {display:none;}
+.filebox .croptop {position:absolute;left:0px;top:0px;height:20px;width:100%;cursor: row-resize;}
+.filebox .cropbutt {position:absolute;left:0px;bottom:0px;height:20px;width:100%;cursor: row-resize;}
+.filebox .cropright {position:absolute;right:0px;top:0px;width:20px;height:100%;cursor: col-resize;}
+.filebox .cropleft {position:absolute;left:0px;top:0px;width:20px;height:100%;cursor: col-resize;}
+.filebox .edit_box {border:0px solid;}
