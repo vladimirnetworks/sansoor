@@ -1,6 +1,6 @@
 # sansoor
 
-![](/demo.gif)
+![](demo.gif)
 
 ```
 
