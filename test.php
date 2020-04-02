@@ -1,25 +1,14 @@
 <!doctype html>
 <html>
 <head>
-
 <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
 <script src="sansoor.js"></script>
 <link href="css.css" type="text/css" rel="stylesheet" />
-
-
 </head>
-
 <body>
-
-
-
 <script>
-
 maxW = 500;
-
 </script>
-
-
 
 <div class="filebox" style="margin-left:auto;margin-right:auto">
 <?php
@@ -50,16 +39,6 @@ OnSave(function (elem,res) {
 });
 </script>
 </div>
-
-
-
-
-
-
-
-
-
-
 
 </body>
 </html>
